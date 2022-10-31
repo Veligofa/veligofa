@@ -1,4 +1,4 @@
-![Header](https://github.com/Veligofa/veligofa/blob/main/assets/1616531561_45-p-svetlo-goluboi-fon-46.jpg) 
+![Header](https://github.com/Veligofa/veligofa/blob/main/assets/new.jpg) 
 
 About me
 
