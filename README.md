@@ -3,7 +3,7 @@
 About me
 
 ### Programming Languages
-<p align="center">![XML](https://img.shields.io/badge/-XML-FFF?style=for-the-badge&logo)</p>
+![XML](https://img.shields.io/badge/-XML-FFF?style=for-the-badge&logo)
 ![HTML](https://img.shields.io/badge/-HTML-ff0000?style=for-the-badge&logo)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo)
 ![JSON](https://img.shields.io/badge/-JSON-3e753b?style=for-the-badge&logo)
