@@ -28,6 +28,8 @@ About me
 ![Microsoft SQL Server](https://img.shields.io/badge/-MSSQL-ff0000?style=for-the-badge&logo)
 ![My-SQL](https://img.shields.io/badge/-MySQL-FFF?style=for-the-badge&logo=MySQL)
 
-Follow me
-
+### Follow me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-3a75c4?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alina-velihayeva-1417571ba/)
+[![Instagram](https://img.shields.io/badge/-Instagram-fff?style=for-the-badge&logo=Instagram)](https://www.instagram.com/veligofa/)
+[![Facebook](https://img.shields.io/badge/-Facebook-fff?style=for-the-badge&logo=Facebook)](https://ru-ru.facebook.com/alina.veligaeva/)
 
