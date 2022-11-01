@@ -22,7 +22,7 @@
     </h1>
 </div>
 
-### About Me :
+### :woman_technologist: About Me :
  I am a junior QA/QC Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
 - :muscle: I have web development skills.
