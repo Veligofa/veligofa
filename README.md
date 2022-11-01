@@ -12,6 +12,9 @@
         <img src="https://img.shields.io/badge/-Facebook-fff?style=for-the-badge&logo=Facebook"  alt="Facebook Bage"/>
     </a>
 </div>
+<div align="center">
+    <img  src="https://komarev.com/ghpvc/?username=Veligofa&style=flat-square&color=ff69b4" alt=""/>
+</div>
 
 About me
 
