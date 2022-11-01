@@ -22,7 +22,19 @@
     </h1>
 </div>
 
-About me
+### About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox: How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3a75c4?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alina-velihayeva-1417571ba/)
+---
+### :hammer_and_wrench: Languages and Tools :
+
+
 
 ### Programming Languages
 ![XML](https://img.shields.io/badge/-XML-FFF?style=for-the-badge&logo)
