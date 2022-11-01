@@ -44,6 +44,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<<<<<<< HEAD
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+=======
+    <img src="https://camo.githubusercontent.com/93b32389bf74600…3746d616e2f676574706f73746d616e2d69636f6e2e737667" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+>>>>>>> 6926d4baab5b71c468616407f2e0c7d8485500dd
 </div>
 
