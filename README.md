@@ -1,6 +1,17 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
+<div id="badges">
+    <a href="https://www.linkedin.com/in/alina-velihayeva-1417571ba/">
+        <img src="https://img.shields.io/badge/-LinkedIn-3a75c4?style=for-the-badge&logo=LinkedIn&logoColor=white"  alt="LinkedIn Bage"/>
+    </a>
+    <a href="https://www.instagram.com/veligofa/">
+        <img src="https://img.shields.io/badge/-Instagram-fff?style=for-the-badge&logo=Instagram"  alt="Instagram Bage"/>
+    </a>
+    <a href="https://ru-ru.facebook.com/alina.veligaeva/">
+        <img src="https://img.shields.io/badge/-Facebook-fff?style=for-the-badge&logo=Facebook"  alt="Facebook Bage"/>
+    </a>
+</div>
 
 About me
 
