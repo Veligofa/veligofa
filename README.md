@@ -23,12 +23,13 @@
 </div>
 
 ### About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ I am a junior QA/QC Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
-- :seedling: Exploring Technical Content Writing.
+- :muscle: I have web development skills.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Developing in QC and QA.
+
+- :telescope: I'm looking for a job with creative teams wich going to сreate something new and great while working in a comfort team-oriented enviroment.
 
 - :mailbox: How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3a75c4?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alina-velihayeva-1417571ba/)
 ---
