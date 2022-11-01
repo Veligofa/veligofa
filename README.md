@@ -51,7 +51,7 @@
 
 ### Testing Documentation
 <div>
-    <a>Cheklists</a>
+    <a href="https://docs.google.com/spreadsheets/d/1BqWdvIzvZHoJAeRIQZRjGMwEtCo-yddOeXUunc7btrk/edit?usp=sharing">Cheklists</a>
 </div>
 <div>
     <a>Test-Suites and Test-Cases</a>
