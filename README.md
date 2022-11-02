@@ -54,10 +54,10 @@
     <a href="https://docs.google.com/spreadsheets/d/1BqWdvIzvZHoJAeRIQZRjGMwEtCo-yddOeXUunc7btrk/edit?usp=sharing">Cheklists</a>
 </div>
 <div>
-    <a href="file:///C:/alina%20testing/TestRail/Master%20-%20TestRail.pdf">Test-Suites and Test-Cases</a>
+    <a href="https://drive.google.com/file/d/1Cveq_KsR3MvKD5kBy1TOjmn3t1obB9LI/view?usp=sharing">Test-Suites and Test-Cases</a>
 </div>
 <div>
-    <a>Bug-Reports</a>
+    <a href="https://docs.google.com/spreadsheets/d/1UgBBFr0_l2U4gTA5hv8xZqPMatSiBTjt96annK-AGQk/edit?usp=sharing">Bug-Reports</a>
 </div>
 <div>
     <a>SQL Queries</a>
