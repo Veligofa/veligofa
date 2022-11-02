@@ -54,7 +54,7 @@
     <a href="https://docs.google.com/spreadsheets/d/1BqWdvIzvZHoJAeRIQZRjGMwEtCo-yddOeXUunc7btrk/edit?usp=sharing">Cheklists</a>
 </div>
 <div>
-    <a>Test-Suites and Test-Cases</a>
+    <a href="file:///C:/alina%20testing/TestRail/Master%20-%20TestRail.pdf">Test-Suites and Test-Cases</a>
 </div>
 <div>
     <a>Bug-Reports</a>
